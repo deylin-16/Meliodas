@@ -1,12 +1,12 @@
 <!-- Banner superior -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Kirito-bot+MD&fontSize=60&fontAlign=50&fontAlignY=35&color=0:F68512,50:1B2A49,100:000000&stroke=000000&strokeWidth=1&fontColor=FFFFFF&textBg=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Meliodas&fontSize=60&fontAlign=50&fontAlignY=35&color=0:F68512,50:1B2A49,100:000000&stroke=000000&strokeWidth=1&fontColor=FFFFFF&textBg=true" width="100%"/>
 
 
 ---
 
 > [!NOTE]
 > <p align="center">
->   <img src="https://i.postimg.cc/DfQL8kwf/1758952926113.jpg">
+>   <img src="https://ik.imagekit.io/pm10ywrf6f/dynamic_Bot_by_deylin/1767071552853_0wWCQBbC4.jpeg">
 > </p>
 
 ---
