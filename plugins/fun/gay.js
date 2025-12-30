@@ -32,7 +32,7 @@ await m.react('🏳️‍🌈')
       "🌈 Bendecido por los dioses del glitter y la elegancia suprema.",
       "💎 Exceso de estilo detectado. Nivel de gaydad: sobre 9000.",
       "🔥 Cuando el arcoíris te ve, él se sonroja.",
-      "🌟 La IA ha hablado: Gay Supremo confirmado por Kirito-Bot-MD.",
+      "🌟 La IA ha hablado: Gay Suprema.",
       "👑 El papá de los gays ha descendido del Olimpo digital."
     ];
 
