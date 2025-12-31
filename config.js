@@ -29,6 +29,7 @@ global.cheerio = cheerio
 global.fs = fs
 global.fetch = fetch
 global.axios = axios
+global.api_url = 'https://api.dynlayer.xyz'
 global.moment = moment   
 
 let icono1 = [
