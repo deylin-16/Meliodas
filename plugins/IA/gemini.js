@@ -4,7 +4,7 @@ no quites créditos y no modifiques el código*/
 
 
 
-import fetch from 'node-fetch'
+/*import fetch from 'node-fetch'
 import { downloadContentFromMessage } from '@whiskeysockets/baileys'
 
 let handler = async (m, { text, usedPrefix, command, conn }) => {
@@ -41,7 +41,7 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
       temperature: 0.7
     }
 
-    const res = await fetch(`${kirito}/api/gemini?apikey=by_deylin`, {
+    const res = await fetch(`${api_url}/api/gemini?apikey=by_deylin`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body)
@@ -74,4 +74,4 @@ handler.tags = ['ia'];
 handler.help = ['gemini <pregunta>'];
 handler.group = false
 
-export default handler
+export default handler/*
