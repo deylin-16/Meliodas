@@ -56,7 +56,7 @@ async function sendAlbumMessage(conn, jid, medias, options = {}) {
 
 let handler = async (m, { conn }) => {
   try {
-    const res = await fetch(`${kirito}/api/anime?apikey=by_deylin`)
+    const res = await fetch(`${api_uel}/api/search/anime?apikey=400klob`)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const json = await res.json()
 
@@ -73,7 +73,7 @@ let handler = async (m, { conn }) => {
       message: {
         documentMessage: {
           title: "Imágenes Anime",
-          fileName: `𝗔𝗡𝗜𝗠𝗘𝗦_𝗗𝗘_𝗞𝗜𝗥𝗜𝗧𝗢`,
+          fileName: `𝗔𝗡𝗜𝗠𝗘𝗦`,
         }
       }
     }
