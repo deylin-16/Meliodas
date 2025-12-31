@@ -74,4 +74,4 @@ handler.tags = ['ia'];
 handler.help = ['gemini <pregunta>'];
 handler.group = false
 
-export default handler/*
+export default handler*/
