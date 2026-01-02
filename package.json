@@ -12,14 +12,14 @@
 },
 "repository": {
    "type": "git",
-    "url": "git+https://github.com/deylin-16/Dynamic-bot.git"
+    "url": "git+https://github.com/deylin-16/Meliodas.git"
 },  
     "author": "Deylin",
     "license": "MIT-License",
 "bugs": {
-    "url": "https://github.com/deylin-16/Dynamic-botissues"
+    "url": "https://github.com/deylin-16/Meliodas"
 },
-    "homepage": "https://github.com/deylin-16/Dynamic-bot#readme",
+    "homepage": "https://github.com/deylin-16/Meliodas#readme",
 "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^8.0.0",
